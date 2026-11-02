@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Id": "com.gborghardt.statsbar",
+        "Name": "Stats Bar",
+        "Description": "Mac Stats-style network, RAM, SSD and CPU readout with click-to-open detail dropdowns",
+        "Icon": "utilities-system-monitor",
+        "Authors": [
+            {
+                "Name": "ThumosMalorus"
+            }
+        ],
+        "Version": "1.0.0",
+        "License": "GPL-2.0-or-later",
+        "Category": "System Information",
+        "Website": "https://github.com/ThumosMalorus/statsbar"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
